@@ -1,0 +1,22 @@
+#title
+{
+    text-align: center;
+    font-size: 25px;
+    font:bold;
+}
+
+p{
+    text-align:center
+}
+
+canvas{
+    margin-top: 15px;
+    border:10px;
+}
+
+copy right footer
+{
+    margin-top: 10px
+    border:5px;
+    padding:10px;
+}
